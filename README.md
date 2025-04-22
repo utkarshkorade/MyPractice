@@ -42,7 +42,5 @@ This repository contains a collection of JavaScript projects and examples that I
 ## 🚀 How to Run the Code
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/AadeshKashid09/JavaPractice.git
+   git clone https://github.com/utkarshkorade/JavaPractice.git
 
-# MyPractice
- 8d872045e1679c2063495a1a327c73063658eeda
