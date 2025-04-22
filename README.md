@@ -1,8 +1,9 @@
+HEAD
 # JavaScript Practice Projects
 
 This repository contains a collection of JavaScript projects and examples that I have created to strengthen my skills in JavaScript programming. Each folder focuses on specific JavaScript concepts with practical exercises and demonstrations.
 
----
+
 
 ## 📁 Project Structure
 
@@ -30,16 +31,18 @@ This repository contains a collection of JavaScript projects and examples that I
 8. **JavaScriptPromise**  
    - Projects covering promises, async/await, and handling asynchronous operations in JavaScript.
 
----
 
 ## 💡 Key Features
 - Covers both foundational and advanced JavaScript concepts.
 - Practical examples for better understanding and application of JavaScript.
 - Well-commented code for easy comprehension.
 
----
+
 
 ## 🚀 How to Run the Code
 1. Clone the repository:  
    ```bash
    git clone https://github.com/AadeshKashid09/JavaPractice.git
+
+# MyPractice
+ 8d872045e1679c2063495a1a327c73063658eeda
